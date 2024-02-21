@@ -43,6 +43,11 @@ This notebook loads the CSV file created in the "Song Data Extraction" notebook,
 ### song_recommender.py: 
 This file contains code for a Streamlit app that allows users to input a song and artist name and get recommendations for similar songs. Using similar code to the "Song Recommendation System.ipynb" notebook.
 
+Example of a search in the Streamlit App: 
+
+![Screenshot of the Atreamlit App ](https://github.com/antongovi/Song-Recommendation-System/blob/aa161eef3e7aa550dd6f1f163e87016841f115a8/Streamlit%20APP/Images/Screenshot%202024-02-21%20at%2015.04.46.png)
+
+
 
 # Contact
 For any inquiries or feedback, please contact antongv7@gmail.com or www.linkedin.com/in/anton-goma/.
