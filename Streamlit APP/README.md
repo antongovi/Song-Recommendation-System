@@ -2,6 +2,6 @@ This folder contains the code for a Streamlit app that allows users to input a s
 
 An example of the App: 
 
-![Screenshot of the Atreamlit App ](https://tinypic.host/image/yMFF9)
+![Screenshot of the Atreamlit App ](https://imgur.com/a/Ksli9It)
 
 
