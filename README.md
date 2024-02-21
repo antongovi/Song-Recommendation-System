@@ -1,4 +1,5 @@
 # Song Recommendation System
+
 This repository contains code for extracting song data from Spotify playlists (using Spotify's Web API) and building a song recommendation system using cosine similarity and kNN. It also includes a Streamlit app for interactively exploring similar songs. 
 
 ## Notebooks:
